@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		ADB980D3207889DA006C3CCD /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ADB980D2207889DA006C3CCD /* main.cpp */; };
+		ADB980E420788F6F006C3CCD /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ADB980E220788F6F006C3CCD /* main.cpp */; };
+		ADB980E720788FB0006C3CCD /* funcs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ADB980E520788FB0006C3CCD /* funcs.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +25,9 @@
 
 /* Begin PBXFileReference section */
 		ADB980CF207889DA006C3CCD /* Pricer-for-BSmodel */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Pricer-for-BSmodel"; sourceTree = BUILT_PRODUCTS_DIR; };
-		ADB980D2207889DA006C3CCD /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		ADB980E220788F6F006C3CCD /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = SOURCE_ROOT; };
+		ADB980E320788F6F006C3CCD /* main.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = main.hpp; sourceTree = SOURCE_ROOT; };
+		ADB980E520788FB0006C3CCD /* funcs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = funcs.cpp; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +60,9 @@
 		ADB980D1207889DA006C3CCD /* Pricer-for-BSmodel */ = {
 			isa = PBXGroup;
 			children = (
-				ADB980D2207889DA006C3CCD /* main.cpp */,
+				ADB980E220788F6F006C3CCD /* main.cpp */,
+				ADB980E320788F6F006C3CCD /* main.hpp */,
+				ADB980E520788FB0006C3CCD /* funcs.cpp */,
 			);
 			path = "Pricer-for-BSmodel";
 			sourceTree = "<group>";
@@ -118,7 +123,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ADB980D3207889DA006C3CCD /* main.cpp in Sources */,
+				ADB980E420788F6F006C3CCD /* main.cpp in Sources */,
+				ADB980E720788FB0006C3CCD /* funcs.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
