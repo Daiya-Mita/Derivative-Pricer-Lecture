@@ -1,5 +1,5 @@
-#ifndef main_hpp
-#define main_hpp
+#ifndef funcs_hpp
+#define funcs_hpp
 double GetOneGaussianBySummation();
 double GetOneGaussianByBoxMuller();
 #endif

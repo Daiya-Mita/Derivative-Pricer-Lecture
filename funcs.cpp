@@ -1,4 +1,4 @@
-#include "main.hpp"
+#include "funcs.hpp"
 #include <cstdlib>
 #include <cmath>
 

@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-#include "main.hpp"
+#include "funcs.hpp"
 
 using namespace std;
 // Monte carlo simulation of call options
