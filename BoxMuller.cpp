@@ -1,4 +1,4 @@
-#include "funcs.hpp"
+#include "BoxMuller.hpp"
 #include <cstdlib>
 #include <cmath>
 
