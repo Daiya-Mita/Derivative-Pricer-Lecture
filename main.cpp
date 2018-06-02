@@ -83,5 +83,5 @@ int main()
     cout << "the price is " << result << "\n";
     double tmp;
     cin >> tmp;
-    exit(0);
+    return 0;
 }
