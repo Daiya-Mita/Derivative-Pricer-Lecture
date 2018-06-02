@@ -10,6 +10,7 @@ This code calculates the (European) option value based on Black-Scholes model
 
 In this code, we calculate option value by using monte carlo method.  
 And we get random numbers by using box-muller method.  
+  
 input is following
 * type: 'call' or 'put'
 * Expiry
