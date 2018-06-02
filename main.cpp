@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cmath>
 #include "MonteCarlo.hpp"
-#include "BoxMuller.hpp"
 
 using namespace std;
 
