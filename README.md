@@ -12,7 +12,6 @@ In this code, we calculate option value by using `monte carlo method` (<- the re
 And we get random numbers by using box-muller method.  
   
 input is following
-* type: 'call' or 'put'
 * Expiry
 * Strike
 * Spot
