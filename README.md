@@ -1,4 +1,4 @@
-# Pricer-for-BSmodel
+# Pricer
 
 build file is `./pricer`
 
@@ -18,3 +18,6 @@ input is following
 * Vol
 * r
 * number of path
+
+# If you need to build...
+please `g++ -o pricer (all .cpp files)`
