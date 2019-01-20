@@ -20,4 +20,4 @@ input is following
 * number of path
 
 # If you need to build...
-please `g++ -o pricer (all .cpp files)`
+please `++ -o pricer (all .cpp files)`
