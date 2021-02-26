@@ -1,7 +1,6 @@
 # Pricer
 
-build file is `./pricer` for mac  
-`./pricer.exe` for windows
+build file is `./pricer`
 
 # How to calculate
 This code calculates the (European) option value based on Black-Scholes model
